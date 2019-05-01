@@ -1,1 +1,7 @@
 node_modules
+app/.vscode/*
+app/node_modules/*
+app/platforms/*
+app/plugins/*
+app/typings/*
+app/config.zip/*
