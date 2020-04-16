@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to mogicidade 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
+  <img alt="Documentation" src="https://github.com/MaatheusGois/Hackathon-CityMogi/workflows/Node.js%20CI/badge.svg" />
   <a href="https://github.com/MaatheusGois/Hackathon-CityMogi#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
