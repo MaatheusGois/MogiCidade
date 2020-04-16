@@ -11,12 +11,25 @@
     "cors": "^2.8.5",
     "debug": "~2.6.9",
     "express": "~4.16.0",
-    "hbs": "~4.0.1",
-    "helmet": "^3.15.0",
+    "hbs": "^4.1.1",
+    "helmet": "^3.22.0",
     "http-errors": "^1.6.3",
     "md5": "^2.2.1",
-    "mongoose": "^5.4.9",
+    "mongoose": "^5.9.9",
     "mongoose-autopopulate": "^0.9.1",
     "morgan": "~1.9.0"
-  }
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaatheusGois/Hackathon-CityMogi.git"
+  },
+  "keywords": [],
+  "author": "Matheus Gois <matheusgoislimasilva@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaatheusGois/Hackathon-CityMogi/issues"
+  },
+  "homepage": "https://github.com/MaatheusGois/Hackathon-CityMogi#readme",
+  "description": ""
 }
